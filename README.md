@@ -1,2 +1,10 @@
 # amigo
-A Framework for RAD PHP+MySQL Websites
+
+A Framework for Websites Rapid Application Development based on PHP + MySQL.
+
+There are a lot of the features:
+
+- Templates
+- Forms
+- Grids
+- Pictures
